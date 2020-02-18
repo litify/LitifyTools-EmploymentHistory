@@ -61,10 +61,6 @@
                 <behavior>Edit</behavior>
                 <field>NumberOfEmployees</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>YearStarted</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
