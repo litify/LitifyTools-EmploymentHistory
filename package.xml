@@ -14,8 +14,8 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Account-Account Litify Business %28EH%29</members>
-        <members>Account-Account Litify Indivisual %28EH%29</members>
+        <members>Account-Account Litify Business (EH)</members>
+        <members>Account-Account Litify Indivisual (EH)</members>
         <members>Employment_History__c-Employment History Layout</members>
         <name>Layout</name>
     </types>
